@@ -1,0 +1,14 @@
+# C++ Build outputs
+build/
+bin/
+obj/
+*.o
+weather_sensor_server
+
+# Local databases or logs
+*.db
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
